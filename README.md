@@ -2,7 +2,7 @@
 
 <h3> Zero Shot Segmentation using Meta's SAM && OpenAI's CLIP</h3>
 
-TODO PUT IMAGE OF IT WORKING HERE
+<img src="overlays/test_dog_cat.jpg?raw=true" width="83%" height="83%" />
 
 
 ## Installation
@@ -22,4 +22,11 @@ But ultimately I used the pip installation listed below:
 ``` 
 pip install git+https://github.com/openai/CLIP.git
 ```
+
+## How to Run:
+ <a href="https://github.com/jvpassarelli/sam-clip-segmentation/blob/main/ZeroShotSegmentAnything.ipynb">The notebook in this repo steps through generating an overlay image</a>
+
+
+Questions, comments: jpassarelli9@gmail.com
+
 
