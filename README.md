@@ -27,6 +27,6 @@ pip install git+https://github.com/openai/CLIP.git
  <a href="https://github.com/jvpassarelli/sam-clip-segmentation/blob/main/ZeroShotSegmentAnything.ipynb">The notebook </a>in this repo steps through generating an overlay image
 
 <br></br><br></br>
-Questions, comments: jpassarelli9@gmail.com
+
 
 
