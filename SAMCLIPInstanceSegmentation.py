@@ -90,7 +90,7 @@ class SAMCLIPInstanceSegmentation(object):
         self.cur_img_np = np.asarray(img)
         self.cur_img_pth = img_pth
 
-        mask_generator = SamAutomaticMaskGenerator(self.sam)
+        mask_generator = SamAutomaticMaskGenerator(self.sam, points_per_side=8)
         masks = mask_generator.generate(self.cur_img_np)
 
         og_masks = masks.copy()
