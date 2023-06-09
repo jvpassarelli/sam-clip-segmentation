@@ -1,0 +1,8 @@
+clip==1.0
+numpy==1.23.3
+opencv_python_headless==4.7.0.72
+Pillow==9.0.1
+Pillow==9.5.0
+scikit_learn==1.0
+segment_anything==1.0
+torch==1.12.1
